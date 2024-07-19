@@ -1,3 +1,4 @@
-# Data-Visualizer
+Diabetes Prediction - Machine Learning Project 
 
-Data set is visualized using Amazon QuickSight , S3 and Bright Data
+• Implemented a machine learning model for diabetes prediction using patient data to identify risk factors and predict
+diabetes onset.- Python, SVM
